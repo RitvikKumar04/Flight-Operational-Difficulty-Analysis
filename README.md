@@ -1,5 +1,13 @@
 # ✈️ Flight Operational Difficulty Analysis – Data Analytics Project
 
+## 🏆 Project Information
+- **Event:** United Airlines SkyHack 3.0  
+- **Team Name:** Stat Pirates  
+- **Category:** Data Analytics – Flight Delay Prediction & Insights  
+- **Team Members:**  
+  - Ritvik Kumar  
+  - Rujhan N Sharma
+
 ## 📘 Overview
 Flight delays are one of the most critical challenges in aviation, impacting passenger satisfaction, airline operations, and overall efficiency.  
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on flight operation data to identify **key causes of flight delays**, assess **operational efficiency**, and suggest **data-driven solutions** to minimize disruptions.
