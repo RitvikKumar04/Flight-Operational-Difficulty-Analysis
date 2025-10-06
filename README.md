@@ -50,7 +50,7 @@ Before analysis, several data cleaning and transformation steps were applied:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### **1. Flight Delay Trends**
 - Analyzed **daily count of delayed flights** to identify peaks and operational bottlenecks.  
@@ -78,14 +78,14 @@ Before analysis, several data cleaning and transformation steps were applied:
 
 ---
 
-## ⚙️ Correlation Analysis
+## Correlation Analysis
 - Positive correlation between **Flight Difficulty Score** and **Average Delay** — complex flights are more prone to late arrivals.
 - Strong link between **Transfer Baggage Load** and **Ground Time Violation**.
 - Routes with higher **Operational Complexity Scores** showed greater **delay variance**.
 
 ---
 
-## 🧾 Key Findings
+## Key Findings
 - Most delays stem from **airport congestion**, **baggage inefficiencies**, and **tight ground schedules**.  
 - **Last-minute operations** (bookings, baggage) are strongly associated with departure delays.  
 - **Accessibility services** add predictable but manageable boarding time extensions.  
@@ -121,13 +121,13 @@ Before analysis, several data cleaning and transformation steps were applied:
 
 ---
 
-## 💡 Conclusion
+## Conclusion
 The analysis reveals that flight delays are primarily driven by **operational complexity**, **ground handling inefficiencies**, and **airport congestion**.  
 By integrating **predictive analytics**, improving **baggage and passenger service management**, and adopting **data-driven scheduling**, airlines can reduce average delays by **15–25%** across key routes.
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 **Ritvik Kumar** | *B.Tech Electrical Engineering DTU, Batch of 2026* 
 
 📧 Email: ritvikkumar.official04@gmail.com 
